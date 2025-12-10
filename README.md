@@ -1,6 +1,6 @@
 ## End-to-end data pipeline
 
-### Spotify 1.2 million - Project Overview
+### Spotify 1.2 million - Overview
 
 It's time to pull everything together I've learned during this course and complete an end to end data pipeline project. As a musician I decided to chose a dataset of personal interest to me :
 
